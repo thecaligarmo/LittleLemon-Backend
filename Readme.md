@@ -1,5 +1,6 @@
-/api/bookings/
-/api/registration/
+Urls to test:
++ `/restaurant/menu/items`
++ `/restaurant/booking/tables`
 
 If you want you can undo the mysql and use the sqllite database. The users are:
 + admin
